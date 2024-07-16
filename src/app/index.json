@@ -1,0 +1,57 @@
+{
+  "navigation": [
+    {
+      "title": "About",
+      "url": "http://www.example.com/about"
+    },
+    {
+      "title": "Projects",
+      "url": "http://www.example.com/portfolio"
+    },
+    {
+      "title": "Contact",
+      "url": "http://www.example.com/contact"
+    }
+  ],
+  "hero": {
+    "name": "Jason.",
+    "subtitle": "Front-end Developer."
+  },
+  "about": {
+    "key": 1,
+    "title": "About me",
+    "image": "/jason_profile.png",
+    "primary": "I'm a self-taught developer based in Washington DC, passionate about turning ideas into elegant interfaces. My expertise includes HTML5, CSS, React, and JavaScript, along with Bootstrap and Tailwind. I'm constantly expanding my skillset and dedicated to improving my craft.",
+
+    "secondary": "Driven by a love for software development, I focus on creating immersive user experiences and robust web applications. I embrace new languages and frameworks to enhance my problem-solving abilities. Attention to detail and a user-centric approach are key aspects of what I love to do. I'm excited to bring my skills and passion to new challenges."
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Secret Chat",
+        "description": "A fully functional chat app with authentication and protected routing. Users can create an account and it will be stored in firebase. This app was created using React JS, firebase, vite, and tailwind CSS ",
+        "url": "https://superchat-black.vercel.app",
+        "github": "https://github.com/gitgotgod/superchat",
+        "image": "/secretchat.jpg"
+      },
+      {
+        "title": "Sports Point Tracking Page",
+        "description": "A fully functional page used for tracking member points. Games won in competitions attributed to point totals which could be used later at participating sponsor restaurants and bars. This app was created using Python, Flask, MySQL, and SQLAlchemy.",
+        "url": "https://eyemanimal.pythonanywhere.com/",
+        "github": "https://github.com/gitgotgod/kfflpointspage",
+        "image": "/kfflpoints.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "your-form-id"
+  },
+  "footer": {
+    "linkedin": "https://linkedin.com/in/jasonchung85",
+    "twitter": "https://twitter.com/jaytries",
+    "github": "https://github.com/gitgotgod"
+  }
+}
