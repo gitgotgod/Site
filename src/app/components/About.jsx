@@ -57,7 +57,7 @@ const About = () => {
           </div>
           <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
             <a
-              href="/jason2024.pdf"
+              href="/CODAresume2025.pdf"
               target="_blank"
               aria-label="Download Resume"
             >
